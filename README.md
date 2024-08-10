@@ -48,7 +48,9 @@ Com o GPG instalado, vamos configurar para criar nossa GPG key e utilizar para a
 ```
 # Listar se já temos GPG configurado
 gpg --list-secret-key --keyid-format LONG
-![gpg-list-secret-keys](img/gpg-list-secret-keys.png)
+
+
+
 # Criar GPG
 gpg --full-generate-key
 - kind of key: (1) RSA and RSA
@@ -78,5 +80,7 @@ source ~/.bashrc
 
 ```
 ## PRs e Code Review
+
+### protegendo branches
 
 ## SemVer e Conventional Commits
