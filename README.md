@@ -81,4 +81,6 @@ source ~/.bashrc
 ```
 ## PRs e Code Review
 
+### protegendo branches
+
 ## SemVer e Conventional Commits
